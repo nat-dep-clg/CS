@@ -1,1 +1,10 @@
+title: Комп'ютерні науки
+name: VVKo
+email: your-email@example.com
+description: Публічна документація
+baseurl: /CS # the subpath of your site, e.g. /blog
+url: https://nat-dep-clg.github.io # the base hostname & protocol for your site, e.g. http://example.com
+repository: "nat-dep-clg/CS"
+github_username:  nat-dep-clg-chnu
+
 theme: jekyll-theme-minimal
