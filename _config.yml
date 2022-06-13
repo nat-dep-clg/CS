@@ -1,3 +1,6 @@
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "air"
+
 title: Комп'ютерні науки
 name: VVKo
 email: your-email@example.com
@@ -7,4 +10,6 @@ url: https://nat-dep-clg.github.io # the base hostname & protocol for your site,
 repository: "nat-dep-clg/CS"
 github_username:  nat-dep-clg-chnu
 
-theme: jekyll-theme-minimal
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
