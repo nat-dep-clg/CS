@@ -8,7 +8,8 @@ description: Публічна документація
 baseurl: /CS # the subpath of your site, e.g. /blog
 #url: https://nat-dep-clg.github.io # the base hostname & protocol for your site, e.g. http://example.com
 url: https://nat-dep-clg-chnu-cs/nat-dep-clg-chnu-cs.github.io 
-repository: "nat-dep-clg/CS"
+#repository: "nat-dep-clg/CS"
+repository: "nat-dep-clg-chnu-cs/nat-dep-clg-chnu-cs.github.io"
 github_username:  nat-dep-clg-chnu
 
 plugins:
